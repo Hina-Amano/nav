@@ -23,10 +23,10 @@ imageRepoUrl: ''
 hashMode: true
 
 # 一旦填写认为你是自有部署，Fork 不要填写
-address: ''
+address: 'https://bejewelled-rolypoly-838af1.netlify.app/'
 
 # 自有部署后台登录密码
-password: admin
+password: mai2696047693
 
 # 自有部署启动端口
 port: 7777
